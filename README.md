@@ -6,9 +6,9 @@ We are working with a new client who is wanting to design an online library for 
 
 Details on the API can be found 🔗 [here](https://fsa-book-buddy-b6e748d1380d.herokuapp.com/docs/)
 
-##Tools
+## Tools
 
-React -- Javascript Library /n
+React -- Javascript Library
 Javascript -- Code
 Css -- Design  
 Git -- Hold Project 
@@ -18,7 +18,7 @@ Fetch API -- Pull Backend Data
 Prettier -- Formatting
 Netlify -- Deploy Porject
 
-##
+
 
 
 DEPLOYED PROJECT:
