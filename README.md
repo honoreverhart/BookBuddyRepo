@@ -21,6 +21,6 @@ Details on the API can be found 🔗 [here](https://fsa-book-buddy-b6e748d1380d.
 
 
 
-DEPLOYED PROJECT:
+## DEPLOYED PROJECT:
 https://monumental-narwhal-c01c57.netlify.app/
 
