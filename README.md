@@ -22,4 +22,5 @@ Netlify -- Deploy Porject
 
 
 DEPLOYED PROJECT:
-https://app.netlify.com/sites/monumental-narwhal-c01c57/deploys/67a550b184dbccb97f497d7d
+https://monumental-narwhal-c01c57.netlify.app/
+
