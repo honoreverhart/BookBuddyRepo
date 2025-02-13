@@ -8,7 +8,7 @@ Details on the API can be found 🔗 [here](https://fsa-book-buddy-b6e748d1380d.
 
 ##Tools
 
-React -- Javascript Library
+React -- Javascript Library /n
 Javascript -- Code
 Css -- Design  
 Git -- Hold Project 
