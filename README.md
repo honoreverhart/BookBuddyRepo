@@ -6,32 +6,19 @@ We are working with a new client who is wanting to design an online library for 
 
 Details on the API can be found 🔗 [here](https://fsa-book-buddy-b6e748d1380d.herokuapp.com/docs/)
 
-Books.jsx:
-CHECK-Displays all books
-CHECK-details button that leads to details.jsx
-CHECK-search bar
-CHECK-login in button that leads you to login.jsx
-CHECK-register button that leads you to register.jsx
+##Tools
 
-Login.jsx:
-CHECK-if password and username are correct then leads to Accoutn.jsx
+React -- Javascript Library
+Javascript -- Code
+Css -- Design  
+Git -- Hold Project 
+Github -- Make changes
+npm -- Run site 
+Fetch API -- Pull Backend Data
+Prettier -- Formatting
+Netlify -- Deploy Porject
 
-Account.jsx:
-CHECK-displays name and maybe email and a list of all checked-out books
-CHECK-logout button
-CHECK-button that leads to all books
-CHECK-button to checkout books
-CHECK-a button to uncheckout books that are checked out
-
-Navigation.jsx:???
-
-Register.jsx:
-CHECK-form that creates an account
-
-Details.jsx:
-CHECK-all details of book
-
-
+##
 
 
 DEPLOYED PROJECT:
