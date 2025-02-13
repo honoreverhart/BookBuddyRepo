@@ -8,15 +8,15 @@ Details on the API can be found 🔗 [here](https://fsa-book-buddy-b6e748d1380d.
 
 ## Tools
 
-React -- Javascript Library
-Javascript -- Code
-Css -- Design  
-Git -- Hold Project 
-Github -- Make changes
-npm -- Run site 
-Fetch API -- Pull Backend Data
-Prettier -- Formatting
-Netlify -- Deploy Porject
+- React -- Javascript Library
+- Javascript -- Code
+- Css -- Design 
+- Git -- Hold Project 
+- Github -- Make changes
+- npm -- Run site 
+- Fetch API -- Pull Backend Data
+- Prettier -- Formatting
+- Netlify -- Deploy Porject
 
 
 
